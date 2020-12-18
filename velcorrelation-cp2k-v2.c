@@ -1,6 +1,6 @@
 //BY FILIPE MATUSALEM, DEC 2020     filipematus@gmail.com 
 //Program to compute normalized velocity correlation function from CP2K xyz velocity file
-//Compilation: g++ -o velcorrelation-cp2k-v2.x velcorrelation-cp2k.c
+//Compilation: g++ -o velcorrelation-cp2k.x velcorrelation-cp2k-v2.c
 
 #include <stdio.h>
 #include <stdlib.h>
